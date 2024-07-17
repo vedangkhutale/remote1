@@ -1,2 +1,1 @@
-# remote1
-type1
+default content
